@@ -3,3 +3,4 @@
 # 🚩 Requirements
 *Java 17* <br />
 *Host use not arm architecture*
+# 🏕 Screenshots
