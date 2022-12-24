@@ -1,2 +1,2 @@
 # 📦 Prototype
-**Root instance inside of pterodactyl server**
+**Root instance inside of pterodactyl server.**
