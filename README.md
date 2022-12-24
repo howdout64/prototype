@@ -5,4 +5,4 @@
 *Host use not arm architecture*
 # 🏕 Screenshots
 ![alt text](https://i.postimg.cc/TY3zDbnx/image.png)
-![alt text](https://i.postimg.cc/Gpd6Jgf4/image.png)
+![alt text](https://i.postimg.cc/3xYHnw4r/image.png)
