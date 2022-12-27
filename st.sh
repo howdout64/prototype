@@ -5,7 +5,7 @@ function shsh {
      ls -l
      shsh
     else
-     ./proot -r . -S . -b /proc /bin/bash -c "$command"
+     ./proot -r . -S . -b /proc -0 /bin/bash -c "$command"
      shsh
     fi
 }
