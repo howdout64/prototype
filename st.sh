@@ -6,7 +6,7 @@ function shsh {
     elif [ "$command" == "end" ]; then
      pkill java
     else
-     ./proot -r . -S . -b . /bin/bash -c "$command"
+     ./proot -r . -S . -b /run -b /etc -b /mnt -b /boot bin/bash -c "$command"
      shsh
     fi
 }
